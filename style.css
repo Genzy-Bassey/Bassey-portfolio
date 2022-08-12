@@ -957,7 +957,7 @@ footer > p > a {
 	}
 	#home-section section .start {
 
-		margin-left: 60px;/*
+		align-text: right;/*
 		width: 90px;*/
 	}
 	#about-section img {
