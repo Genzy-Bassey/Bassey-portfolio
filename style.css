@@ -946,19 +946,19 @@ footer > p > a {
 	}
 	#home-section section form {
 		padding: 2px 0 0 3px;
-		width: 358px;
+		width: 328px;
 	}
 	#home-section section .email {
 
 		padding: 12px 0 0 10px;
 
 		width: 60px;
-
+ 
 	}
 	#home-section section .start {
 		padding: 12px 0;
 		font-size: 15px;
-		padding: 12px 0;
+		width: 90px;
 	}
 	#about-section img {
 		display: flex;
