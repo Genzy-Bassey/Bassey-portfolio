@@ -944,6 +944,22 @@ footer > p > a {
 		padding: 10px 20px;
 		font-size: 20px;
 	}
+	#home-section section form {
+		padding: 2px 0 0 3px;
+		width: 328px;
+	}
+	#home-section section .email {
+
+		padding: 12px 0 0 10px;
+
+		width: 50px;
+
+	}
+	#home-section section .start {
+		padding: 12px 0;
+		font-size: 15px;
+		padding: 12px 0;
+	}
 	#about-section img {
 		display: flex;
 		margin: 50px auto;
