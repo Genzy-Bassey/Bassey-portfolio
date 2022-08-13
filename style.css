@@ -944,13 +944,13 @@ footer > p > a {
 		padding: 10px 20px;
 		font-size: 20px;
 	}
-	#home-section section form {
-		padding: 2px 0 0 3px;
+	#home-section section form {/*
+		padding: 2px 0 0 3px;*/
 		width: 328px;
 	}
-	#home-section section .email {
+	#home-section section .email {/*
 
-		padding: 12px 0 0 10px;
+		padding: 12px 0 0 10px;*/ 
 
 		width: 60px;
  
